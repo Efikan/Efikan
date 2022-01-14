@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Efikan
-- 👀 I’m interested in HTML,CSS
+- 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning WEB designing
 - 💞️ I’m looking to collaborate on Landing Pages
 - 📫 How to reach me:  @acgabriel on Twitter
